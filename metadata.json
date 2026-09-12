@@ -1,0 +1,6 @@
+{
+  "name": "Cater Dine Events",
+  "description": "Professional catering and event services in Islamabad, Pakistan specializing in weddings, corporate events, and celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
